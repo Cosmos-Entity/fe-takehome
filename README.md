@@ -2,7 +2,11 @@
 
 ### **Project Description:**
 
-Your task is to create a web application that consumes a collection of images returned by a GraphQL API and allows the user to interact with the images in some creative way. As a starting point, please reference the Cosmos in-app element grid (if you still don't have invite code, please ask for one). The idea here is to take inspiration from the design language and general aesthsitic of Cosmos, but to come up with a fresh and interesting way of interacting with and displaying the images returned by the API.
+Your task is to create a web application that consumes a collection of images returned by a GraphQL API and allows the user to interact with them in some creative way. As a starting point, please reference the Cosmos in-app photo grid (if you still don't have invite code, please ask for one). The idea here is to take inspiration from the design language and general aesthetic of Cosmos, but to come up with a fresh and interesting way of interacting with and displaying the images returned by the API.
+
+In addition, we'd love to see your product thinking, as this is a very product focussed-role. As a final part of this assessment, please include a simple project proposal doc that introduces a new experience on Cosmos. This could be anything from a new way of interacting with elements, to an entirely new feature. We encourage you to think as big as possible here, without the constraints of needing actual bandwidth to complete it. This proposal should include a summary of the feature set, a list of technical requirements, any unknowns and open questions, and an estimate of work.
+
+---
 
 ### **Requirements:**
 
@@ -39,13 +43,15 @@ Your task is to create a web application that consumes a collection of images re
 - Share your project's code repository.
 - Provide clear instructions on how to run the project locally.
 - Include any additional documentation or notes you think are relevant.
-- We will setup a demo and code walkthough on completion.
+- We will setup a demo and code walkthrough on completion.
+- Share the project proposal as text document in the repo.
 
 **Evaluation Criteria:**
 
 - You will be assessed mainly in 2 categories:
   1.  Architecture - setting up the building blocks of the application, and managing/caching data throughout the app.
   2.  Interaction/UX/Feature set - How have you decided to display the data to the user? What does it look like and feel like to click around the interface?
+  3.  Product thinking - your project proposal demonstrates your ability to think about features and scope of work, and gets us excited about the way you think about what Cosmos could be!
 - Additional evaluation criteria include:
   - Code quality and organization.
   - User interface design and interaction.
