@@ -61,4 +61,4 @@ In addition, we'd love to see your product thinking, as this is a very product f
   - Testing and test coverage (if applicable).
   - Deployment and presentation of the project.
 
-**Note:** The estimated time for this project is 6-10 hours. Please don’t spend more time on it than that, unless you feel so called!
+**Note:** The estimated time for this project is around 5-6 hours.
